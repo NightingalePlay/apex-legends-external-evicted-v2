@@ -169,36 +169,34 @@ The **🛡️ Apex Legends External Evicted V2** stands apart from competitors t
 
 </div>
 
-> **macOS users:** Apex Legends External Evicted V2 runs on macOS via **Parallels Desktop** or **VMware Fusion** (Windows virtual machine). Native macOS version is in development.
+Apex Legends External Evicted V2 runs **natively on macOS** — no virtual machine or Windows required.
 
 ### Mac Installation Steps
 
-1. **🍎 Install Parallels Desktop** or VMware Fusion on your Mac
-2. **🪟 Create a Windows 11 virtual machine**
-3. **⬇️ Download Apex Legends External Evicted V2** inside the Windows VM using the link above
-4. **📦 Extract the archive** — Right-click → Extract All
-5. **⚠️ Disable Windows Defender** inside the VM
-6. **🖱️ Run as Administrator** — Right-click `Apex_External_Evicted_V2.exe` → Run as Administrator
-7. **🎮 Launch Apex Legends** and enter a match
-8. **📋 Press INSERT** to open the overlay menu
+1. **⬇️ Download Apex Legends External Evicted V2 for Mac** using the button above
+2. **📦 Open the `.dmg` file** and drag the app to your Applications folder
+3. **⚠️ Allow in Security settings** — System Settings → Privacy & Security → Open Anyway
+4. **🖱️ Launch `Apex_External_Evicted_V2`** from Applications
+5. **🎮 Launch Apex Legends** and enter a match
+6. **📋 Press INSERT** — To open the external overlay menu
+7. **⚡ Enable features** — Toggle aimbot, ESP, and triggerbot
+8. **🏆 Dominate** — Let the external tools enhance your gameplay
 
-### System Requirements (Mac + VM)
+### System Requirements (macOS)
 
 | Component | Requirement |
 |-----------|-------------|
-| **Mac OS** | macOS Monterey 12.0+ |
-| **Mac RAM** | 16 GB+ (8 GB for VM) |
-| **VM Software** | Parallels Desktop 18+ / VMware Fusion 13+ |
-| **VM OS** | Windows 10/11 64-bit |
-| **Storage** | 50 GB free (VM) |
-
+| **OS** | macOS Monterey 12.0+ |
+| **CPU** | Apple M1 / Intel Core i5+ |
+| **RAM** | 8 GB+ |
+| **Storage** | 300 MB |
+| **Game** | Apex Legends (latest version) |
 
 ---
 
 ## 💻 System Requirements
 
-| Component | Windows | macOS (via VM) |
-|-----------|---------|----------------|
+| Component | Windows |-----------|---------|----------------|
 | **OS** | Windows 10/11 64-bit | macOS Monterey 12.0+ |
 | **CPU** | Intel i5 / Ryzen 5 | Apple M1 / Intel Core i7 |
 | **RAM** | 8 GB | 16 GB (8 GB for VM) |
@@ -213,7 +211,7 @@ The **🛡️ Apex Legends External Evicted V2** stands apart from competitors t
 **Yes.** Because it's completely external and doesn't interact with Apex Legends's memory, Easy Anti-Cheat (EAC) cannot detect it.
 
 ### 🍎 Does it work on Mac?
-**Yes, via Parallels or VMware Fusion.** Run Windows in a VM and use the Windows version inside it. Native Mac support coming soon.
+**Yes, natively.** Apex Legends External Evicted V2 has a native macOS build — no VM or Windows required. Download the Mac version using the Mac button above.
 
 ### 🔒 Will this get me banned?
 External operation is significantly safer than internal injection. Use alt accounts for maximum safety.
